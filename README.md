@@ -29,8 +29,7 @@ The following tools and libraries will be used for this project:
 To replicate the data wrangling and visualization process:
 
 1. Clone this repository to your local machine.
-2. Install the required dependencies mentioned in the `requirements.txt` file.
-3. Launch Jupyter Notebook and open the provided notebooks to explore the code and execute the data wrangling and visualization steps.
+3. Launch Jupyter Notebook and Tableau and open the provided notebooks to explore the code and execute the data wrangling and visualization steps.
 4. Follow the instructions and comments within the notebooks for a step-by-step guide on the data wrangling and visualization techniques employed.
 
 ## Contributions
